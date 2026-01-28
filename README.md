@@ -17,7 +17,7 @@ npm install
 
 3. Run 
 ```
-npm start
+npm run build
 ```
 
 ## Acknowledgments
